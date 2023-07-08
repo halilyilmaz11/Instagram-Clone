@@ -1,6 +1,8 @@
 # Instagram Clone
 
-Bootstrap özellikleri kullanarak, hazır olarak verilen Instagram Clone projesinde değişiklikler yapıldı. 
+Hazır olarak verilen Instagram Clone projesinde task olarak verilen değişiklikler, HTML, CSS ve Bootstrap kullanılarak düzenlenlendi.
+
+Hazır olarak verilen Instagram Clone projesi: https://drive.google.com/drive/folders/1hRWmpYpuax4Aqsf_BRKdpDoNUowTpzKe
 
 ### Projenin ilk hali
 
